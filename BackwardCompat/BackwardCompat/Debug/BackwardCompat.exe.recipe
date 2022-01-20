@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Projects\Assembly\BackwardCompat\x64\Debug\BackwardCompat.exe</FullPath>
+      <FullPath>D:\Projects\Assembly\AssemblyCodes\BackwardCompat\Debug\BackwardCompat.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

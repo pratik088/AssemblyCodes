@@ -1,3 +1,3 @@
 ﻿  Assembling Main.asm...
-Main.asm(20): warning A4023: with /coff switch, leading underscore required for start address : main
+Main.asm(37): warning A4023: with /coff switch, leading underscore required for start address : main
   BackwardCompat.vcxproj -> D:\Projects\Assembly\AssemblyCodes\BackwardCompat\Debug\BackwardCompat.exe
